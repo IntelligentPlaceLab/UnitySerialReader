@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/SerialReader.cs" />
+    <Compile Include="Assets/Scripts/Sensors.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
